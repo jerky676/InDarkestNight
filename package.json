@@ -1,0 +1,22 @@
+{
+    "name": "indarkestnight",
+    "displayName": "InDarkestNight",
+    "description": "dark theme named for green lantern oath",
+    "version": "0.0.1",
+    "publisher": "jlu676",
+    "engines": {
+        "vscode": "^1.14.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "In Darkest Night",
+                "uiTheme": "vs-dark",
+                "path": "./themes/In Darkest Night-color-theme.json"
+            }
+        ]
+    }
+}
