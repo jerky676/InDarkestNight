@@ -18,6 +18,10 @@
     "engines": {
         "vscode": "^1.0.0"
     },
+    "scripts": {
+        "bundle": "vsce package",
+        "publish": "vsce publish"
+    },
     "license": "SEE LICENSE IN LICENSE.md",
     "bugs": {
         "url": "https://github.com/jerky676/InDarkestNight/issues",
