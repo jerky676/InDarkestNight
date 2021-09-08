@@ -17,7 +17,7 @@
 
 Please report issues related to this theme on the repository page.<br>
 
-[GitHub Repository](/issues)
+[GitHub Repository](https://github.com/jerky676/InDarkestNight/issues)
 
 <br>
 
