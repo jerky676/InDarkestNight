@@ -1,13 +1,27 @@
-# README
-## This is the README for your extension "In Darkest Night"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# In Darkest Night Theme
 
-* Split the editor (`Cmd+\` on OSX or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on OSX or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (OSX) to see a list of Markdown snippets
+## Theme
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+![Theme](./images/theme.png)
 
-**Enjoy!**
+<br>
+
+# Installation
+
+1. Open the **Extensions** sidebar in VS Code. `View → Extensions`
+1. Search for `indarkestnight`, choose "In Darkest Night Theme" by **Jerky676**
+1. Click **Install** to install it
+1. Navigate to File > Preferences > Color Theme > **In Darkest Night Theme**
+
+## Feedback
+
+Please report issues related to this theme on the repository page.<br>
+
+[GitHub Repository](/issues)
+
+<br>
+
+
+## License
+
+This theme is released under the [Apache License](./license.md).

@@ -1,9 +1,9 @@
 {
     "name": "indarkestnight",
-    "displayName": "InDarkestNight",
-    "description": "dark theme named for green lantern oath",
+    "displayName": "In Darkest Night",
+    "description": "dark theme named for green lantern",
     "version": "0.0.1",
-    "publisher": "jlu676",
+    "publisher": "jerky676",
     "engines": {
         "vscode": "^1.14.0"
     },
@@ -11,12 +11,10 @@
         "Themes"
     ],
     "contributes": {
-        "themes": [
-            {
-                "label": "In Darkest Night",
-                "uiTheme": "vs-dark",
-                "path": "/themes/In-Darkest-Night-theme.json"
-            }
-        ]
+        "themes": [{
+            "label": "In Darkest Night",
+            "uiTheme": "vs-dark",
+            "path": "/themes/In-Darkest-Night-theme.json"
+        }]
     }
 }
