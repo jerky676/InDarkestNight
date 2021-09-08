@@ -15,7 +15,7 @@
             {
                 "label": "In Darkest Night",
                 "uiTheme": "vs-dark",
-                "path": "./themes/In Darkest Night-color-theme.json"
+                "path": "/themes/In-Darkest-Night-theme.json"
             }
         ]
     }
