@@ -4,29 +4,37 @@
     "description": "Dark theme named for green lantern",
     "version": "1.0.0",
     "publisher": "jerky676",
-    "engines": {
-        "vscode": "^1.14.0"
+    "author": {
+        "name": "Jerky676"
     },
-    "license": "LICENSE.MD",
+    "categories": [
+        "Themes"
+    ],
+    "icon": "images/icon.png",
+    "galleryBanner": {
+        "color": "#24945d",
+        "theme": "dark"
+    },
+    "engines": {
+        "vscode": "^1.0.0"
+    },
+    "license": "SEE LICENSE IN LICENSE.md",
     "bugs": {
         "url": "https://github.com/jerky676/InDarkestNight/issues",
         "email": "jluther@datafounder.com"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/microsoft/vscode-wordcount.git"
+        "url": "https://github.com/jerky676/InDarkestNight.git"
     },
     "homepage": "https://github.com/jerky676/InDarkestNight/blob/main/README.md",
-    "categories": [
-        "Themes"
-    ],
+
     "keywords": [
         "theme",
         "Green",
         "Dark",
         "Darkest",
         "Night",
-        "Customize",
         "Dark Theme",
         "Darkest Night",
         "Green Lantern",
@@ -34,7 +42,6 @@
         "Green Lantern Dark Theme",
         "Darkest Night Theme"
     ],
-    "icon": "images/icon.png",
     "contributes": {
         "themes": [{
             "label": "In Darkest Night",
