@@ -2,7 +2,7 @@
     "name": "indarkestnight",
     "displayName": "In Darkest Night",
     "description": "Dark theme named for green lantern",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "publisher": "jerky676",
     "author": {
         "name": "Jerky676"
@@ -31,7 +31,6 @@
         "url": "https://github.com/jerky676/InDarkestNight.git"
     },
     "homepage": "https://github.com/jerky676/InDarkestNight/blob/main/README.md",
-
     "keywords": [
         "theme",
         "Green",
@@ -46,10 +45,12 @@
         "Darkest Night Theme"
     ],
     "contributes": {
-        "themes": [{
-            "label": "In Darkest Night",
-            "uiTheme": "vs-dark",
-            "path": "/themes/In-Darkest-Night-theme.json"
-        }]
+        "themes": [
+            {
+                "label": "In Darkest Night",
+                "uiTheme": "vs-dark",
+                "path": "/themes/In-Darkest-Night-theme.json"
+            }
+        ]
     }
 }
