@@ -1,5 +1,8 @@
-publishminor:
+patch:
 	vsce publish minor
 
-publishmajor:
+minor:
+	vsce publish minor
+
+major:
 	vsce publish major
